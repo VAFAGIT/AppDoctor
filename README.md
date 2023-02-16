@@ -1,4 +1,4 @@
-# MonGuide
+# AppDoctor
  Appointment booking app for a doctor's office,  built using PHP, REST API, Vue.js, and MySQL.
 
 
